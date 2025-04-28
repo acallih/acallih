@@ -1,7 +1,7 @@
 ## Oieee! Eu sou a Angelina Callih
 **`Desenvolvedora Frontend`**
 Me chamo Angelina Callih, conclui o ensino médio no IFPI tecnico em informática, sou desenvolvedora Frontend e trabalho com: CSS, HTML, JS, Tailwind, TypeScript, React, Next.js, Python, Bun, Docker. 
-E também sou UI / UX Designer trabalhando principalemnte com o Figma 
+E também sou UI / UX Designer trabalhando principalemente com o Figma 
 <p align="left">
     <a href="https://github.com/acallih?tab=repositories&sort=stargazers">
         <img 
